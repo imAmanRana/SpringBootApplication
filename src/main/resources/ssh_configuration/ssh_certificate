@@ -1,0 +1,14 @@
+keytool -genkey -alias tomcat -storetype PKCS12 -keyalg RSA -keysize 2048 -keystore keystore.p12 -validity 3650
+
+What is your first and last name?
+  [Unknown]:  Amandeep Singh
+What is the name of your organizational unit?
+  [Unknown]:  Computer Science
+What is the name of your organization?
+  [Unknown]:  Thoughtstopen
+What is the name of your City or Locality?
+  [Unknown]:  Montreal
+What is the name of your State or Province?
+  [Unknown]:  Quebec
+What is the two-letter country code for this unit?
+  [Unknown]:  CA
